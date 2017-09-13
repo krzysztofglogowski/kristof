@@ -49,4 +49,5 @@ group :production do
 end
 
 gem 'bootstrap-sass', '~> 3.3.4'
+gem 'devise', '~> 3.5.2'
 
