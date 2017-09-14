@@ -51,3 +51,6 @@ end
 gem 'bootstrap-sass', '~> 3.3.4'
 gem 'devise', '~> 3.5.2'
 
+gem 'paperclip', '~> 4.3.0'
+
+gem 'aws-sdk', '~> 2.1.16'
